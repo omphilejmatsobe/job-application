@@ -17,7 +17,7 @@ In this task a simple Job application is created. It implements mulitple compone
 
 | Filename |
 | ------ |
-| [main](https://github.com/omphilejmatsobe/job-applicaiont/tree/main/job-applicaiont/app)|
+| [main](https://github.com/omphilejmatsobe/job-application/tree/main/app)|
 
 ## ScreenShots :bookmark_tabs:
 
