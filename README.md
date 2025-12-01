@@ -23,8 +23,4 @@ In this task a simple Job application is created. It implements mulitple compone
 
 ## Component:
 
-![Local Image](images/1.png)
-
-
-![Local Image](images/7.png)
-![Local Image](images/8.png)
+![Local Image](public/Screenshot_1.png)
