@@ -17,7 +17,7 @@ In this task a simple Job application is created. It implements mulitple compone
 
 | Filename |
 | ------ |
-| [main](https://github.com/omphilejmatsobe/todo-reactjs/tree/main/job-applicaiont/src)|
+| [main](https://github.com/omphilejmatsobe/job-applicaiont/tree/main/job-applicaiont/app)|
 
 ## ScreenShots :bookmark_tabs:
 
